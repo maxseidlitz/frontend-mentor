@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+body {
+  background-color: #0A0C1B;
+}
+
+.card {
+  background-color: #1C1938;
+}
+
+.card h1 {
+  color: white;
+}
+
+.card a {
+  color: white;
+  font-weight: 300;
+}
+
+.filter {
+  background-color: #A85DD5;
+  opacity: 50%;
+}
+
+.attribution {
+  color: white;
+}
+/*# sourceMappingURL=styles.css.map */
